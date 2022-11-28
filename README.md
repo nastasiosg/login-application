@@ -6,7 +6,7 @@
 
 1. Install NPM packages
 ```sh
-npm install
+cd into backend & client & npm install
 ```
 
 2. Open a terminal, CD into "backend" folder and run 
