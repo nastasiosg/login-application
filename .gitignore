@@ -1,0 +1,10 @@
+# Dependency Directories
+./backend/node_module/
+./client/node_module/
+
+# Desktop Services Store on macOS
+.DS_Store
+
+# package-lock.json
+./backend/package-lock.json
+./client/package-lock.json
