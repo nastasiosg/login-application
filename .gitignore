@@ -1,6 +1,6 @@
 # Dependency Directories
-./backend/node_module/
-./client/node_module/
+./backend/node_modules/
+./client/node_modules/
 
 # Desktop Services Store on macOS
 .DS_Store
